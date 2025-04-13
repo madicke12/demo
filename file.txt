@@ -1,1 +1,2 @@
 sama file
+sama line 2
